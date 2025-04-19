@@ -77,7 +77,6 @@ with tabs[2]:
         - Built ML model to predict player value based on attributes
         - Enabled smarter transfer recommendations
         """)
-        st.markdown("🔗 [GitHub Repo](https://github.com/AmoghSabane10/fifa21-transfer-model)")
 
 with tabs[3]:
     st.header("Skills")
