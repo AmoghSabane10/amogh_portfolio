@@ -54,7 +54,7 @@ with tabs[2]:
     st.write("🎓 Master's in Engineering Management – University of Texas at Austin, 2024")
     st.write("🎓 B.Tech in Chemical Engineering – NIT Karnataka, 2021")
 
-    st.download_button("📄 Download Resume", Path("Amogh_Sabane_Resume.pdf").read_bytes(), file_name="Amogh_Sabane_Resume.pdf")
+    st.download_button("📄 Download Resume", Path("Amogh_Sabane_Resume_BA.pdf").read_bytes(), file_name="Amogh_Sabane_Resume.pdf")
 
 with tabs[3]:
     st.header("Projects")
